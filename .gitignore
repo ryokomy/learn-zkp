@@ -1,0 +1,9 @@
+node_modules/
+src/circom/*.r1cs
+src/circom/*.sym
+src/circom/circuit_js/
+src/circom/*.ptau
+src/circom/*.zkey
+src/circom/verification_key.json
+src/circom/public.json
+src/circom/proof.json
