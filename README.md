@@ -1,14 +1,13 @@
-# Learn Zero-Knowledge Proof by Ryo Komiyama
+# Learn Zero-Knowledge Proof
 
-## How to use
-
-### install
+## install
 
 ```
+git clone git@github.com:ryokomy/learn-zkp.git
 npm i
 ```
 
-### ZKP Demo
+## Demo
 
 ```
 npm run 01-compile
@@ -23,3 +22,14 @@ npm run 04-f-export-verification-key
 npm run 05-generate-proof
 npm run 06-verify-proof
 ```
+
+## Reference
+
+### Code
+
+- [circom](https://docs.circom.io/)
+- [snarkjs](https://github.com/iden3/snarkjs)
+
+### Documents
+
+- [Awesome zero knowledge proofs (zkp)](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
